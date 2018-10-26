@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <h1>Voice chat with socket.io</h1>
+=======
+<h1>Voice chat  MOWN TECH with socket.io</h1>
+>>>>>>> 4d90c0858de0abff5e02fd2f5f649616e0aff2ed
 
 <h2>RESTful API</h2>
 
